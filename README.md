@@ -1,7 +1,9 @@
 My Career Aspiration
 
 Name: Jasmine Kaur
+
 Program: B.Sc. Biotechnology
+
 University: Lovely Professional University
 
 About This Presentation
@@ -15,7 +17,9 @@ To build a research-oriented career by combining biological knowledge with compu
 My Academic Roadmap
 
 - B.Sc. Biotechnology
+- 
 - M.Sc. Bioinformatics
+- 
 - PhD in Computational Biology / Bioinformatics
 
 Presentation Video
