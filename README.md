@@ -20,6 +20,6 @@ My Academic Roadmap
 
 Presentation Video
 
-"Watch My Career Aspiration Video" (PASTE_YOUR_VIDEO_LINK_HERE)
+"Watch My Career Aspiration Video" 
 
 Dream • Learn • Innovate
