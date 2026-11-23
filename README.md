@@ -20,6 +20,6 @@ My Academic Roadmap
 
 Presentation Video
 
-"Watch My Career Aspiration Video" (https://github.com/JASMINEKAUR2008/Career-Aspiration-Video.git) 
+"Watch My Career Aspiration Video"
 
 Dream • Learn • Innovate
