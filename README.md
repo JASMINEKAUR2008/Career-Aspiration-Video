@@ -1,2 +1,25 @@
-# Career-Aspiration-Video
-This video presents my career aspirations as a B.Sc. Biotechnology student at Lovely Professional University.It highlights my interest in Biotechnology, Bioinformatics, and Computational Biology, along with my future academic goals and planned career pathway towards research and innovation.Dream • Learn • Innovate 🧬
+My Career Aspiration
+
+Name: Jasmine Kaur
+Program: B.Sc. Biotechnology
+University: Lovely Professional University
+
+About This Presentation
+
+This video presents my career aspirations and my planned academic journey in the fields of Biotechnology, Bioinformatics, and Computational Biology.
+
+My Career Goal
+
+To build a research-oriented career by combining biological knowledge with computational skills.
+
+My Academic Roadmap
+
+- B.Sc. Biotechnology
+- M.Sc. Bioinformatics
+- PhD in Computational Biology / Bioinformatics
+
+Presentation Video
+
+"Watch My Career Aspiration Video" (PASTE_YOUR_VIDEO_LINK_HERE)
+
+Dream • Learn • Innovate
